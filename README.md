@@ -6,7 +6,6 @@ A full-stack web application built for the **CodeRower Software Pvt Ltd** assign
 ## Tech Stack
 - **Backend:** Node.js, Express, MongoDB (Mongoose)
 - **Frontend:**
--
 -   React (Vite), Axios
 
 ## Setup
